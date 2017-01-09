@@ -2,7 +2,8 @@
 'List' is an android app that helps create and manage lists in your day-to-day life. 
 
 ## Motivation
-I started making this app to help keep track of lists that I had to create using pen and paper.
+I wanted an easy-to-use list app that serves my needs. I found that other list apps were not flexible enough.
+So I started making this app to help keep track of my daily lists.
 
 ## Features
 In the app, you can create multiple lists with each list having multiple items. 
