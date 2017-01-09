@@ -1,14 +1,18 @@
 # List
 'List' is an android app that helps create and manage lists in your day-to-day life. 
+
+## Motivation
 I started making this app to help keep track of lists that I had to create using pen and paper.
 
+## Features
 In the app, you can create multiple lists. Every list can have multiple items. 
 You can add due dates to your list items. You can check the completed items.
 You can group lists by tagging them to groups, and can view all the lists tagged to the same group. 
 A list can be tagged to different groups. This helps see the same list in different contexts.
-Deleting a group tag does not delete the list. You can delete lists you don'tneed anymore.
+Deleting a group tag does not delete the list. 
+You can delete lists or items in a list you don't need anymore.
 
-Important Use Cases - 
+## Important Usecases - 
 1. Add a new list. Add items to the list. 
 2. Delete items from a list by swiping.
 3. Add due date and details to an item in a list.
@@ -19,8 +23,9 @@ Important Use Cases -
 8. Add a list to a new group.
 9. Delete a group in the Navigation Drawer(Just deletes group name, and does not delete the lists in the group).
 
-Video Walkthrough of starting the app.
+## Video Walkthrough 
+### Opening the app.
 ![](ListStartDemo.gif)
 
-Video Walkthrough of important usecases.
+### Important usecases.
 ![](ListDemo1.gif)
