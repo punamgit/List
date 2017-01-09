@@ -5,12 +5,11 @@
 I started making this app to help keep track of lists that I had to create using pen and paper.
 
 ## Features
-In the app, you can create multiple lists. Every list can have multiple items. 
-You can add due dates to your list items. You can check the completed items.
-You can group lists by tagging them to groups, and can view all the lists tagged to the same group. 
-A list can be tagged to different groups. This helps see the same list in different contexts.
-Deleting a group tag does not delete the list. 
-You can delete lists or items in a list you don't need anymore.
+In the app, you can create multiple lists with each list having multiple items. 
+You can add due dates and details to your list items, and check off when complete.
+You can group lists by tagging them and can view all the lists with the common tag names at one place. 
+A list can also be tagged to more than one group. This helps see the same list in different contexts. 
+You can delete items, lists and groups that you don't need anymore.
 
 ## Important Usecases - 
 1. Add a new list. Add items to the list. 
