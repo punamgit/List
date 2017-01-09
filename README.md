@@ -12,7 +12,7 @@ You can group lists by tagging them and can view all the lists with the common t
 A list can also be tagged to more than one group. This helps see the same list in different contexts. 
 You can delete items, lists and groups that you don't need anymore.
 
-## Important Usecases - 
+## Major Usecases - 
 1. Add a new list. Add items to the list. 
 2. Delete items from a list by swiping.
 3. Add due date and details to an item in a list.
